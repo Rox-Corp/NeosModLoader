@@ -1,1 +1,1 @@
-this is a fork of NeosModLoader for headless hosting use.
+this is a fork of NeosModLoader for linux headless hosting use.
